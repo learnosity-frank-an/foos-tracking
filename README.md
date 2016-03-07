@@ -6,8 +6,12 @@ Note: There is a bug for OpevCV 3.1.0 on Mac. So we have to use 3.0.0
 
 # Files
 
-main.py: the main app
-range-detector.py: same code to find out HSV mask. https://github.com/jrosebr1/imutils/blob/master/bin/range-detector
+##main.py
+the main app
+
+## range-detector.py
+
+sample code to find out HSV mask. https://github.com/jrosebr1/imutils/blob/master/bin/range-detector
 
 # Issues
 
